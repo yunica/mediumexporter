@@ -1,6 +1,6 @@
 {
   "name": "mediumexporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Export posts from medium.com to markdown",
   "author": "Xavier Damman (@xdamman)",
   "contributors": [
