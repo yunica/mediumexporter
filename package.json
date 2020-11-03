@@ -37,7 +37,8 @@
     "semantic-release": "semantic-release",
     "lint": "eslint --ignore-path .gitignore --ext .js index.js lib test",
     "lint-autofix": "eslint --ignore-path .gitignore --ext .js lib index.js test --fix",
-    "eslint-check": "eslint --print-config .eslintrc.js | eslint-config-prettier-check"
+    "eslint-check": "eslint --print-config .eslintrc.js | eslint-config-prettier-check",
+    "start": "node ./probar.js"
   },
   "husky": {
     "hooks": {
@@ -57,7 +58,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xdamman/mediumexporter.git"
+    "url": "git+https://github.com/yunica/mediumexporter.git"
   },
   "keywords": [
     "medium",
@@ -68,7 +69,7 @@
     "mediumexporter": "index.js"
   },
   "bugs": {
-    "url": "https://github.com/xdamman/mediumexporter/issues"
+    "url": "https://github.com/yunica/mediumexporter/issues"
   },
-  "homepage": "https://github.com/xdamman/mediumexporter#readme"
+  "homepage": "https://github.com/yunica/mediumexporter#readme"
 }
