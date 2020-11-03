@@ -27,3 +27,7 @@ build/Release
 node_modules
 content
 .nyc_output
+data.json
+posts/
+.vscode/
+
