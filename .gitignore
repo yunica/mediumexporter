@@ -30,4 +30,6 @@ content
 data.json
 posts/
 .vscode/
+posts2/
+*.csv
 
