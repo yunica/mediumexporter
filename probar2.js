@@ -3,7 +3,7 @@ var fs = require('fs')
 
 async function workMedium(url) {
   await mediumexporter.getPost(url, {
-    output: 'posts2',
+    output: 'posts3',
     frontmatter: true
   })
   console.info(`done ==========  >> ${url} `)
